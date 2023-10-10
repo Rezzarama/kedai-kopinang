@@ -198,6 +198,10 @@ body {
 }
 
 /* menu section */
+
+/* .menu {
+  height: 100vh;
+} */
 .menu h2,
 .contact h2 {
   margin-bottom: 1rem;
