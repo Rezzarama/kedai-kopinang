@@ -86,7 +86,7 @@ body {
   display: none;
 }
 .youtube-video {
-  margin-top: 180px; /* Sesuaikan dengan tinggi navbar */
+  margin-top: 80px; /* Sesuaikan dengan tinggi navbar */
   padding: 20px;
   text-align: center;
 }
@@ -105,7 +105,7 @@ body {
 
 .video-container iframe {
   width: 100%;
-  height: auto;
+  height: 700px;
   border-radius: 8px; /* Tambahkan radius jika ingin sudut membulat */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Efek bayangan untuk tampilan lebih menarik */
 }
