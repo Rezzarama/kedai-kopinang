@@ -93,6 +93,31 @@ nav ul {
 nav li {
   list-style-type: none;
 }
+.youtube-video {
+  margin-top: 80px; /* Sesuaikan dengan tinggi navbar */
+  padding: 20px;
+  text-align: center;
+}
+
+.youtube-video h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  max-width: 800px; /* Anda bisa menyesuaikan lebar maksimum */
+  margin: 0 auto;
+}
+
+.video-container iframe {
+  width: 100%;
+  height: auto;
+  border-radius: 8px; /* Tambahkan radius jika ingin sudut membulat */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Efek bayangan untuk tampilan lebih menarik */
+}
+
 main {
   padding: 20px;
   display: flex;
