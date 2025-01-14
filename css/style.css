@@ -86,7 +86,7 @@ body {
   display: none;
 }
 .youtube-video {
-  margin-top: 80px; /* Sesuaikan dengan tinggi navbar */
+  margin-top: 180px; /* Sesuaikan dengan tinggi navbar */
   padding: 20px;
   text-align: center;
 }
